@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'LSBJSON' target in the 'LSBJSON' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
